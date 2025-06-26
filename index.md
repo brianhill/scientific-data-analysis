@@ -12,7 +12,7 @@ Mentor: [Prof. Brian Hill](../index.html)
 
 Student: Hexi Jin (DS 23)
 
-## Independent Study Application and Preliminary Syllabus
+## Independent Study Application and Syllabus
 
 * PDF of [Independent Study Application](./IndependentStudyApplication.pdf)
 * PDF of [Syllabus](./ScientificDataAnalysisSyllabus.pdf) (a PDF of the same content as is on these web pages)
@@ -29,6 +29,7 @@ Student: Hexi Jin (DS 23)
 ### Optional
 
 * Both Pasha and Grus include adequate introductions to Python features as they use them, but you may want a more systematic introduction to use as a reference. An excellent one is David Beazley, *Python Distilled.* It is actually a distillation and update of his time-tested *Python: Essential Reference,* which was growing overly-long as the Python language feature set kept growing.
+* Since we will be using Git to keep and share all of our code and notes, and version control with this level of sophistication is *de rigueur* for working in a software team, consider supplementing the understanding that you get from the workflows we are using by reading Travis Swicegood's *Pragmatic Guide to Git.*
 
 ## Actual Daily Schedules (Kept Retrospectively)
 

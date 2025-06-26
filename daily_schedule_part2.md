@@ -10,8 +10,8 @@ See also [Daily Schedule - Part 1](./daily_schedule_part1.html)
 
 #### Week 4 &mdash; Yet Another Review of Python &mdash; Some Vector and Matrix Algebra &mdash; Statistics and Probability
 
-* June 4 &mdash; Chapters 1-3: Another excellent review of Python and Matplotlib which will help systematize your understanding of the language features you were using in Pasha's book &mdash; The assignment is to do the review of the three chapters, but to completely stop using Jupyter or Jupyter lab, and instead get everything working in PyCharm Professional Edition (free for students) or VS Code (but I have zero experience with that) &mdash; When Grus says (at the beginning of Chapter 2) that you should not be tampering with your base Python environment, he is completely correct (so learn how to make a venv that you could call grus or dsfs and then switch to it &mdash; if you didn't already do that for working through Pasha)
-* June 7 &mdash; Chapters 4-6: Linear Algebra (wherein Grus introduces his Vector and Matrix implementations which could have been classes, or could have leveraged numpy, but which he craftily used type aliases, because that was the simplest way to implement from scratch), Statistics, and Probability (due to having taken last fall's Bayesian Statistics class, the math in Chapters 5 and 6 will be review)
+* June 4 &mdash; Chapters 1-3: Mostly redundant but excellent review of Python and Matplotlib &mdash; Review the three chapters, but completely stop using Jupyter or Jupyter lab, and instead get everything working in PyCharm Professional Edition (free for students) &mdash; When Grus says that you should not be tampering with your base Python environment, he is completely correct &mdash; So learn how to make a venv that you could call grus or dsfs and then switch to it
+* June 7 &mdash; Chapters 4-6: Linear Algebra, Statistics, and Probability (due to having taken last fall's Bayesian Statistics class, much of the math in Chapters 5 and 6 will be review)
 
 #### Week 5 &mdash; Optimization (aka Minimization and Maximization) &mdash; Working with Data
 
