@@ -6,7 +6,7 @@ See also [Daily Schedule - Part 2](./daily_schedule_part2.html)
 
 #### Supplementary Material
 
-Since Python's classes are something we did much with toward the end, and they are often considered part of an introduction to Python, you could do a quick introduction to classes (aka "object-oriented programming") such as Section 1.16 of *Python Distilled* by Beazley. The three things that are generally considered important about object-oriented programming are encapsulation (controlled access to the object's data), inheritance (behavior is inherited from superclasses in the class heirarchy and extended by subclasses), and polymorphism (behavior can be overriden in subclasses). Chapters 4 and 7 of Beazley are a much more complete introduction to object-oriented programming.
+Since Python's classes are something we only did much with toward the end, and they are often considered a fundamental part of an introduction to Python, you could do a quick introduction to classes (aka "object-oriented programming") such as Section 1.16 of *Python Distilled* by Beazley. The three things that are generally considered important about object-oriented programming are encapsulation (controlled access to the object's data), inheritance (behavior is inherited from superclasses in the class heirarchy and extended by subclasses), and polymorphism (behavior can be overriden in subclasses). Chapters 4 and 7 of Beazley are a much more complete introduction to object-oriented programming.
 
 #### Looking Beyond Our Endpoint (Chapter 19 on Deep Learning)
 
