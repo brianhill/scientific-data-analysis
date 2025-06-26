@@ -12,9 +12,8 @@ Mentor: [Prof. Brian Hill](../index.html)
 
 Student: Hexi Jin (DS 23)
 
-## Independent Study Application and Syllabus
+## Syllabus
 
-* PDF of [Independent Study Application](./IndependentStudyApplication.pdf)
 * PDF of [Syllabus](./ScientificDataAnalysisSyllabus.pdf) (a PDF of the same content as is on these web pages)
 
 ## Materials
