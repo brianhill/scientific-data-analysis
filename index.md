@@ -4,7 +4,7 @@
 
 *Part 1: Consolidate and advance our understanding of mainstream and cutting edge scientific data analysis techniques using Chapters 1-8 of Pasha,* Astronomical Python
 
-*Part 2: Survey data science techniques up to and including neural net and deep learning implementations (which are the relevant preparation for a subsequent study of natural-language processing and LLMs) using Chapters 1-11, 13-15, and 18-19 Grus,* Data Science from Scratch, 2nd Ed.
+*Part 2: Survey data science techniques up to and including neural net and deep learning implementations (which are the relevant preparation for a subsequent study of natural-language processing and LLMs) using Chapters 1-11, 13-15, and 18-19 of Grus,* Data Science from Scratch, 2nd Ed.
 
 Term 6 of Academic Year 2024-2025, Deep Springs College
 
