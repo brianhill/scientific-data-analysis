@@ -27,7 +27,7 @@ See also [Daily Schedule - Part 1](./daily_schedule_part1.html)
 
 #### Week 7 &mdash; Neural Networks &mdash; Deep Learning
 
-* June 23 &mdash; Chapter 18: Neural Networks
+* June 23 &mdash; Chapter 18: Neural Networks &mdash; This write-up of [Partial Derivatives for Backpropagation](./references/MathematicsForDeepLearning.nb.pdf) might be helpful
 * June 25 (no meeting, but do the live coding session) &mdash; Get a feeling for how a real pro codes, including type-hinting, systematic adherence to style choices, and code testing, by building the code in PyCharm as [Grus builds a deep learning libary](https://joelgrus.com/2017/12/04/livecoding-madness-building-a-deep-learning-library/) in VS Code, pausing the live coding session whenever you need to catch up with him, and fixing the style errors that PyCharm's linter catches and Grus's runs of mypy miss &mdash; Grus's live coding session is effectively a blindingly-fast introduction to the same material as is in Chapters 18 and 19
 * June 26 (final meeting) &mdash; Chapter 19: Deep Learning &mdash; Only up to and including the section titled "Softmaxes and Cross-Entropy"
 
